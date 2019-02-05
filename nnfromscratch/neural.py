@@ -51,6 +51,7 @@ def initialize_parameters(X):
     W3 = np.random.randn(1,2)
     b3 = np.zeros((1,1))
     params = {'W1':W1,'W2':W2,'W3':W3,'b1':b1,'b2':b2,'b3':b3}
+    print(params)
     return params
 
 def forward_prop(X, params):
@@ -78,9 +79,15 @@ def forward_prop(X, params):
     params['A1'] = A1
     params['A2'] = A2
     params['A3'] = A3
-
+    print(cost,params)
     return cost, params
 
 def backprop(cost, params):
     # take the cost and the params
     # use A3 to get dZ3 then keep going back
+
+
+
+
+X = [x for x in range(2000)]
+Y = X % 3 == 0
