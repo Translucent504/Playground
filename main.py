@@ -13,4 +13,33 @@ Solution overview:
         group's element and then do the same as the hacky pyautogui thing....
     3) Interact with whatsapp local messenger on windows.
 """
-import pyautogui
+import pyautogui as pa
+import time
+#whatsapp icon : X:340 Y:1055
+#whatsapp typing area X:100, Y:110
+#whatsapp select group X:150, Y:230
+#whatsapp go to group profile X:710, Y:50
+#whatsapp go to group media X:1500, Y:530
+pa.click(340, 1055)
+time.sleep(0.5)
+pa.click(100, 110)
+pa.typewrite("python")
+time.sleep(1)
+pa.click(150, 230)
+time.sleep(1)
+pa.click(710, 50)
+time.sleep(1.5)
+pa.click(1500, 530)
+time.sleep(1.5)
+pa.click(1460, 230)  #lateest pic
+#time.sleep(1.5)
+total = pa.prompt(text='Number of Pics', title='Total Pictures' , default='0')
+for pic in range(int(total)):
+    pa.click(1830, 55) #download
+    time.sleep(0.5)
+    pa.press('enter')
+    time.sleep(0.5)
+    pa.press('left')
+
+# can hold and drag middle mouse button to scroll.
+
