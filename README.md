@@ -32,3 +32,8 @@
   - wtf is isometric?
 - mobile app or desktop app or web app?
 - Only for classical mechanics or also electrostatics / springs etc?
+
+
+# Stuff worth looking at:
+- [spaCy](https://spacy.io/) NLP python library
+- [socratic](https://socratic.org/) A similar app that does nlp stuff and gives wikipedia like answers and stepwise math solutions but nothing for actual physics mechanics simulation
