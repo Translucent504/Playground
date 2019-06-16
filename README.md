@@ -37,3 +37,5 @@
 # Stuff worth looking at:
 - [spaCy](https://spacy.io/) NLP python library
 - [socratic](https://socratic.org/) A similar app that does nlp stuff and gives wikipedia like answers and stepwise math solutions but nothing for actual physics mechanics simulation
+- [pymunk](http://www.pymunk.org/en/latest/) Python 2d physics engine
+- [pybox2d](https://github.com/pybox2d/pybox2d) 2d engine python..
