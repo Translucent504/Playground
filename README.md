@@ -39,3 +39,6 @@
 - [socratic](https://socratic.org/) A similar app that does nlp stuff and gives wikipedia like answers and stepwise math solutions but nothing for actual physics mechanics simulation
 - [pymunk](http://www.pymunk.org/en/latest/) Python 2d physics engine
 - [pybox2d](https://github.com/pybox2d/pybox2d) 2d engine python..
+
+# Example questions:
+- An ambulance is currently traveling at 15m/s, and is accelerating with a constant acceleration of 5 m/s^2. The ambulance is attempting to pass a car which is moving at a constant velocity of 30m/s. How far must the ambulance travel until it matches the car’s velocity?
