@@ -42,3 +42,5 @@
 
 # Example questions:
 - An ambulance is currently traveling at 15m/s, and is accelerating with a constant acceleration of 5 m/s^2. The ambulance is attempting to pass a car which is moving at a constant velocity of 30m/s. How far must the ambulance travel until it matches the car’s velocity?
+- [Physics classroom questions](https://www.physicsclassroom.com/class/1DKin/Lesson-6/Sample-Problems-and-Solutions)
+- [some random pdf](https://studylib.net/doc/8547086/physics-word-problems-practice--motion---science)
