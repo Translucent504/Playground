@@ -1,3 +1,5 @@
+![](https://i.imgur.com/0tykmxD.gif)
+
 # Vague Ideas to try
 - End Goal: Application that allows an image to be taken of an english passage that has some sort of physics mechanics problem. The application then displays a visual simulation of what the passage said.
 
