@@ -1,5 +1,8 @@
 ![](https://i.imgur.com/0tykmxD.gif)
 
+# Currently Doing:
+Studying deep learning from CMUDL 11785, started convolutional neural nets, need to understand recurrent nets before I can start with NLP stuff, probably from fastai or something..
+
 # Vague Ideas to try
 - End Goal: Application that allows an image to be taken of an english passage that has some sort of physics mechanics problem. The application then displays a visual simulation of what the passage said.
 
